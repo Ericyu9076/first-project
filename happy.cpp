@@ -2,5 +2,6 @@
 
 int main0
 {
-    std::cout << "hello world";
+    std::cout << "hello world" << endl;
+
 }
